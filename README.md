@@ -13,3 +13,6 @@ You will find :
 
 * Various services can be and to the application.
 
+-----------------------------------------------------
+
+Node_module is not gited.
